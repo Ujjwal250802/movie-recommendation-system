@@ -1,12 +1,16 @@
 Movie Recommendation System
+
 Description
 The Movie Recommendation System is a Python-based project designed to analyze movie datasets from Kaggle and provide personalized movie recommendations. 
 The project combines data analysis and machine learning with a web-based interface for seamless user interaction.
 
 Features
 -Personalized movie recommendations based on user preferences or input.
+
 -Backend powered by Flask for handling recommendations and APIs.
+
 -Frontend built using HTML, CSS, and JavaScript for an intuitive and responsive interface.
+
 -Data processing and recommendation logic implemented in Python using Jupyter Notebook.
 
 Installation steps
